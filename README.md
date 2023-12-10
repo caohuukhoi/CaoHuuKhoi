@@ -1,8 +1,3 @@
-# 💫About Me :
-Hello! My name is Khoi. I am 22 years old, currently living and working in Hanoi, Vietnam.
-I am a student who graduated with a bachelor's degree with honors majoring in Electronics and Telecommunications Engineering at Hanoi University of Science and Technology.
-I am an Android Developer. Besides, I also have knowledge related to major fields such as IoT and hardware design. My main languages I am using are Java, Kotlin and C++.
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cao.huu.khoi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huukhoi_) 
 
